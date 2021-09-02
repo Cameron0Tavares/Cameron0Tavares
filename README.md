@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cameron0Tavares
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email at tavarescameron1@gmail.com
 
 <!---
